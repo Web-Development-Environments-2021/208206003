@@ -254,7 +254,7 @@ form{
 	text-align: left;
 }
 div{
-	text-align: right;
+	text-align: left;
 }
 h4 span{
 	background-color: white;
@@ -277,7 +277,8 @@ h5{
 }
 #Messageinput{
 	height: 10em;
+	text-align: left;
 }
 div{
-	text-align: center;
+	text-align: left;
 }
